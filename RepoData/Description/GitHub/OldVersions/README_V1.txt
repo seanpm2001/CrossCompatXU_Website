@@ -1,0 +1,1 @@
+📀↔️💿🌐️ The official source repository for the website of the cCrossCompatXU project, an open source privacy tool that checks the availability and compatibility of programs between different operating systems. Not to be confused with https://github.com/petermajor/cross-compat which is a completely different project.
